@@ -1,6 +1,6 @@
 # CameraDemo
 
-This is only a demo, just for test
+This is only a demo, just for test</br>
 The demo:</br>
 1.read camera data then add filters(beauty face, and another) then show on the screen,
   all by openGL</br>
